@@ -1,0 +1,68 @@
+body{
+	background-image: url('https://crystalbridges.org/wp-content/uploads/2016/04/crystals-2.jpg');
+
+}
+#div1{
+	background-color: #ce4712;
+	width:500px;
+	height: 100px;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 20px 20px -20px 0px;
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px ;
+
+}
+#div2{
+	background-color: #dddddd;
+	width: 500px;
+	height: 400px;
+	font-size: 20px;
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px ;
+}
+#div3{
+	background-color: #ce4712;
+	width: 200px;
+	height: 200px;
+	font-size: 40px;
+	text-align: center;
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px ;
+}
+#div4{
+	background-color: #dddddd;
+	width: 150px;
+	height: 200px;
+	float: left;
+	/*position: relative;*/
+	/*left:  250px;*/
+	/*top: -200px;*/
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px ;
+	font-size: 20px;
+	
+	
+}
+#div5{
+	background-color: #ce4712;
+	width: 200px;
+	height: 30px;
+	color: white;
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px ;
+}
+#div6{
+	background-color:#dddddd;
+	width: 200px;
+	height: 100px;
+	font-size: 30px; 
+	padding: 10px 20px 20px 20px;
+	margin: 20px 20px 20px 20px ;
+}
+
+
+
+
+
+
